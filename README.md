@@ -1,6 +1,8 @@
 # B.Ed 1.5-Year Portfolio - Classroom Management
 
-This portfolio documents the activities conducted during the classroom management module. Tasks include role reflections, record analysis, a classroom management plan based on William Glasser’s Choice Theory, and an infographic-based teaching activity in an underprivileged school.
+This portfolio documents the activities conducted during the classroom management module. Tasks include role reflections, record analysis, a classroom management plan based on William Glasser’s Choice Theory, and an infographic-based teaching activity in an underprivileged school. This repository showcases my academic research and professional writings in educational leadership, teaching methodologies, and school administration. The articles are formatted in APA style and focus on various aspects of education.
+
+A collection of research articles, essays, and academic writings on educational leadership, teaching strategies, and school administration, formatted in APA style. This portfolio showcases my expertise in education research and professional writing.
 
 ## Activities
 
